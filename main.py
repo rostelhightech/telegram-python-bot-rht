@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import CommandHandler, Filters, MessageHandler, Updater, CallbackContext
 from youtubesearchpython import VideosSearch
 
-BOT_TOKEN = '6603185267:AAFEVtH7-VPVcJV5kS08vO0FTX6AQT-KVU8'
+BOT_TOKEN = 'votre token'
 
 # Liste des blagues
 
