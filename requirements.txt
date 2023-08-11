@@ -1,0 +1,2 @@
+python-telegram-bot==13.13
+youtube-search-python==1.6.6
